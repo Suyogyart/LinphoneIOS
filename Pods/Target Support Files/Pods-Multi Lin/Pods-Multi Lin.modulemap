@@ -1,0 +1,6 @@
+framework module Pods_Multi_Lin {
+  umbrella header "Pods-Multi Lin-umbrella.h"
+
+  export *
+  module * { export * }
+}
